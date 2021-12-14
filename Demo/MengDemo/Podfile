@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'git@gitlab.ximalaya.com:iphone/XMSpecs.git'
+platform :ios,			'8.0'
+inhibit_all_warnings!
+
+target:'MengDemo'
+
+pod 'LCDemo', :path => '../', :modular_headers => true

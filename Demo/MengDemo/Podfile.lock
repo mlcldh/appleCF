@@ -1,0 +1,16 @@
+PODS:
+  - LCDemo (0.0.1)
+
+DEPENDENCIES:
+  - LCDemo (from `../`)
+
+EXTERNAL SOURCES:
+  LCDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCDemo: 0b71fa046c6735cd9e1d7935a93195e671cbcfce
+
+PODFILE CHECKSUM: 3ea6e4c64fc15e1961abb66d705294b2076eba96
+
+COCOAPODS: 1.11.2
